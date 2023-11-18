@@ -98,4 +98,4 @@ async def play(ctx, game = "1"):
         await ctx.send(f"Игра окончена. Вы собрали {score} кг мусора. Спасибо за игру!")
 
 
-bot.run("MTE3MjkyNzAzMzY4MTEyMTQ1MA.GAuB12.29FqHTo1xJTFPRLrfCZk8PhYRUg6AbwJ5CB19M")
+bot.run("")
